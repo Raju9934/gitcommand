@@ -1,4 +1,7 @@
 print("Hello world")
+<<<<<<< HEAD
 print("Hello sir")
-print("Good morning")
+
+=======
+>>>>>>> parent of 5747825 (This is modified by feature branch)
 
